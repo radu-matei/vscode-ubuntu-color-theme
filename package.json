@@ -1,0 +1,21 @@
+{
+    "name": "ubuntu-color-theme",
+    "displayName": "Ubuntu Color Theme",
+    "description": "A color theme inspired by the Ubuntu terminal",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ubuntu Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ubuntu Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
