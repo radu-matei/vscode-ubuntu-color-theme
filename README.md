@@ -1,5 +1,7 @@
 # Ubuntu color scheme for VS Code
 
+> [Open this extension in the VS Code Marketplace][marketplace]
+
 A color theme for VS Code, inspired by the Ubuntu terminal.
 
 ### Previews
@@ -31,3 +33,5 @@ A color theme for VS Code, inspired by the Ubuntu terminal.
   https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Ubuntu.itermcolors
 [theme-generator]:
   https://marketplace.visualstudio.com/items?itemName=usernamehw.theme-generator
+[marketplace]:
+  https://marketplace.visualstudio.com/items?itemName=radu-matei.vscode-ubuntu-color-theme

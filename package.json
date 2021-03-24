@@ -6,8 +6,18 @@
   "engines": {
     "vscode": "^1.54.0"
   },
+  "publisher": "radu-matei",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radu-matei/vscode-ubuntu-color-theme"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Ubuntu"
   ],
   "contributes": {
     "themes": [
