@@ -1,13 +1,33 @@
-# README
-## This is the README for your extension "ubuntu-color-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Ubuntu color scheme for VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A color theme for VS Code, inspired by the Ubuntu terminal.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Previews
 
-**Enjoy!**
+- TypeScript:
+
+![](./images/ubuntu-vscode.PNG)
+
+- Rust:
+
+![](./images/rust.PNG)
+
+- C:
+
+![](./images/c.PNG)
+
+### Notes
+
+- the color scheme was initially generated using [the VS Code theme
+  generator][theme-generator], and later manually tweaked by preference.
+- this theme does _not_ follow any best practices around optimal contrast for
+  color schemes.
+- a similar color scheme for your Windows Terminal [can be found
+  here][win-terminal-theme].
+- a similar color scheme for iTerm2 [can be found here][iterm2-theme].
+
+[win-terminal-theme]: https://windowsterminalthemes.dev/?theme=Ubuntu
+[iterm2-theme]:
+  https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Ubuntu.itermcolors
+[theme-generator]:
+  https://marketplace.visualstudio.com/items?itemName=usernamehw.theme-generator
